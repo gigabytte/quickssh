@@ -1,6 +1,6 @@
 # QuickSSH
 
-SCRIPT SHOULD NOT BE USED IN A PRODUCTION ENV!!! SEVERE SECURITY ISSUES CAN BE ARRISED FROM THIS.
+SCRIPT SHOULD NOT BE USED IN A PRODUCTION ENV!!! SEVERE SECURITY ISSUES CAN ARRISE DUE TO IMPROPER SECURE HANDLING OF PASSWORDS
 ##
 QuickSSH aka qssh is a wrapper for the ssh-keygen and ssh-copy-id openssl commands for generating and copying keys to a remote server.
 
